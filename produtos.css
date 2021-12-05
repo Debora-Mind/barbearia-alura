@@ -39,6 +39,12 @@ nav a {
     text-align: center;
     width: 30%;
     vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px #000000 solid;
+    border-radius: 10px;
+
 }
 
 .produtos h2 {
@@ -53,4 +59,5 @@ nav a {
 .preco {
     font-size: 22px;
     font-weight: bold;
+    margin: 10px 0 0
 }
