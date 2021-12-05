@@ -1,0 +1,15 @@
+header {
+    background: #BBBBBB
+}
+
+.logo {
+    padding-left: 10%;
+    display: inline-block;
+}
+
+.cabecario {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10%;
+    margin-left: 50%;
+}
